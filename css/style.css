@@ -1,0 +1,83 @@
+/*##66ffcc*/ /*blue*/
+/*#cccc00*//*yellow*/
+/*#669999*//*grey-blue*/
+/*#e6e6e6*//*grey*/
+.image-header{ 
+   position: relative; 
+   width: 100%; 
+}
+.navbar{
+  /*margin-top:20px;*/
+}
+
+.text-header { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+   color: #ffffff;/*#669999;*/
+   font-size:80px;
+   text-shadow: -1px 0 #669999, 0 1px #669999, 1px 0 black, 0 -1px black;
+}
+
+.navbar navbar-default{
+  #background-color:#669999!important;
+}
+
+#myNavbar{
+  /*#position:fixed;*/
+}
+
+.well{
+  background-color:#669999!important;
+  color:#ffffff;
+}
+/*icons*/
+.fa-linkedin{
+  color:#ffffff;
+}
+.fa-linkedin:hover{
+  background-color:#ffffff;
+  color:#669999;
+}
+.fa-github{
+  color:#ffffff;
+}
+.fa-github:hover{
+  background-color:#ffffff;
+  color:#669999;
+}
+.fa-google-plus{
+  color:#ffffff;
+}
+.fa-google-plus:hover{
+  background-color:#ffffff;
+  color:#669999;
+}
+
+.jumbotron{
+  background-color:#669999;
+  color:#ffffff;
+}
+.text-about{
+  padding-right:100px;
+  padding-left:100px;
+  align:center;
+  font-size:16px;
+}
+.thumbnail{
+  height:210px;
+  width:400px;
+  display: block;
+  margin: 0 auto;
+}
+#projects_section{
+  background-color:#e6e6e6;
+  padding-top:40px;
+}
+#about_me_section{
+  padding-top:40px;
+}
+#contact_section{
+  padding-top:40px;
+}
